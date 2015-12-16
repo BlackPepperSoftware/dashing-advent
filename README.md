@@ -23,3 +23,5 @@ To include the widget in a dashboard, add the following snippet to the dashboard
 </li>
 ```
 
+- - -
+With thanks to [this designshack article](http://designshack.net/articles/css/make-it-snow-on-your-website-with-css-keyframe-animations/) for the snow!
