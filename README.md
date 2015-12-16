@@ -12,7 +12,7 @@ On non-advent days, logo.png is displayed.
 
 To use this widget, copy `advent.html`, `advent.coffee`, and `advent.scss` into a `/widgets/advent` directory.
 
-Add gif files 1.gif - 24.gif (one for each advent day) to the `assets/images` folder. Add or update `assets/images/logo.png` to the desired image.
+Add gif files `1.gif` - `24.gif` (one for each advent day) to the `assets/images` folder. Add or update `assets/images/logo.png` to the desired image.
 
 To include the widget in a dashboard, add the following snippet to the dashboard layout file:
 
