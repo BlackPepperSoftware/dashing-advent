@@ -1,6 +1,6 @@
 ##Preview
 
-TODO
+![](https://raw.githubusercontent.com/BlackPepperSoftware/dashing-advent/master/preview.png)
 
 ## Description
 
