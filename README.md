@@ -1,6 +1,6 @@
 ##Preview
 
-![](https://raw.githubusercontent.com/BlackPepperSoftware/dashing-advent/master/preview.png)
+![](https://raw.githubusercontent.com/BlackPepperSoftware/dashing-advent/master/preview.gif)
 
 ## Description
 
